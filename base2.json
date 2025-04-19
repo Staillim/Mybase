@@ -88,5 +88,68 @@
   "IMG": "https:\/\/pics.filmaffinity.com\/tulsa_king-399999643-large.jpg",
   "TIPO": "SERIE",
   "FONDO": "https:\/\/wallpapers.com\/images\/hd\/sylvester-stallone-tulsa-king-series-09har90m4whi6229.jpg"
+ },
+ {
+  "NOMBRE": "Top Gun: pasión y gloria",
+  "ID": 8,
+  "AÑO": 1986,
+  "DURACION": "1h 50m",
+  "GENERO": "Acción\/Romance",
+  "LINK": "https:\/\/terabox.com\/s\/1c2UU8Rs8G63KNMSMg26ZkQ",
+  "DESCRIPCION": "El joven piloto Maverick Mitchell acude a una prestigiosa escuela aérea, famosa por formar a los mejores pilotos de combate del país. Maverick se siente atraído por su hermosa instructora, mientras desarrolla una intensa rivalidad con otro piloto."
+ },
+ {
+  "NOMBRE": "Fury : Corazones de Acero",
+  "ID": 9,
+  "AÑO": 2014,
+  "DURACION": "2h 14m",
+  "GENERO": "Bélico\/Acción",
+  "LINK": "https:\/\/terabox.com\/s\/1NxCBOYWM8et5MQd5REd4QQ",
+  "DESCRIPCION": "Durante la Segunda Guerra Mundial, un aguerrido sargento del ejército encabeza el equipo de un tanque Sherman en una misión mortal detrás de líneas enemigas para golpear el corazón de la Alemania nazi."
+ },
+ {
+  "NOMBRE": "60 segundos",
+  "ID": 10,
+  "AÑO": 2000,
+  "DURACION": "1h 58m",
+  "GENERO": "Acción\/Crimen",
+  "LINK": "https:\/\/terabox.com\/s\/1juKtwnnFLm0pE302SUPbOA",
+  "DESCRIPCION": "Un ladrón retirado y su nuevo grupo deben robar 50 vehículos de marca o un gángster matará a su hermano."
+ },
+ {
+  "NOMBRE": "Batman vs Superman: el origen de la justicia",
+  "ID": 11,
+  "AÑO": 2016,
+  "DURACION": " 2h 31m",
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1UMLxZFZk0_oKHRYqPkE_5A",
+  "DESCRIPCION": "Batman se enfrenta a Superman, temeroso de que su afán de poder termine nublando su lucha contra la injusticia y lo convierta en un villano. Mientras los héroes pelean, una amenaza terrible se cierne sobre la humanidad."
+ },
+ {
+  "NOMBRE": "Guardianes de la Galaxia Vol. 2",
+  "ID": 12,
+  "AÑO": 2017,
+  "DURACION": "2h 17m",
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1-XD13OxAGeAtG2Z8ot1YUg",
+  "DESCRIPCION": "Una poderosa raza alienígena contrata a los Guardianes para que protejan sus valiosas baterías de energía, pero, cuando Rocket las roba, los alienígenas envían a sus tropas de combate a vengarse de los Guardianes. Mientras tratan de escapar con vida, intentan resolver el misterio de los verdaderos orígenes de Peter Quill."
+ },
+ {
+  "NOMBRE": "Ant-Man: el Hombre Hormiga",
+  "ID": 13,
+  "AÑO": 2015,
+  "DURACION": "1h 58m",
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1nKxFhXRuCY-h02FTsPuMtQ",
+  "DESCRIPCION": "Un ladrón con la habilidad de encogerse de tamaño pero crecer en fuerza debe sacar su héroe interior y ayudar a su mentor a llevar a cabo un plan para salvar al mundo."
+ },
+ {
+  "NOMBRE": "Guardianes de la Galaxia",
+  "ID": 14,
+  "AÑO": 2014,
+  "DURACION": " 2h 2m",
+  "GENERO": " Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1fJJEBSH7PaTkI-SWNTDfMw",
+  "DESCRIPCION": "Un aventurero espacial se convierte en la presa de unos cazadores de tesoros después de robar el orbe de un villano traicionero. Cuando descubre su poder, debe hallar la forma de unir a unos rivales para salvar al universo."
  }
 ]
