@@ -1040,5 +1040,17 @@
  {
   "NOMBRE": "La Jugada Maestra ",
   "TIPO": "PELICULA"
+ },
+ {
+  "NOMBRE": "G20",
+  "ID": 78,
+  "AÑO": 2025,
+  "GENERO": " Acción\/Suspenso",
+  "LINK": "https:\/\/1024terabox.com\/s\/1Ju1ruwa-YwhyB8giRDOFRA",
+  "DESCRIPCION": "Un grupo de mercenarios ataca una cumbre económica mundial y toma como rehenes a los líderes del mundo. La presidenta de EE. UU. Danielle Sutton se prepara para la cumbre del G20 en Sudáfrica, donde presentará un plan audaz.",
+  "TRAILER": "https:\/\/youtu.be\/mhQcpvKHis4?si=sG-YyfZ6eKhYOkb2",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc5MTg3MTEtNzQwMi00Y2VkLWI4N2UtNDdmMzFjMGIyNTEzXkEyXkFqcGc@._V1_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/f6tRigZlGzCgLAddDxeT3PVpc0L.jpg"
  }
 ]
