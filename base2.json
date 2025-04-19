@@ -587,6 +587,10 @@
  {
   "NOMBRE": "Inmortales",
   "ID": "47",
+  "AÑO": "2011",
+  "GENERO": " Acción\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1qOi-CtNAiXo8wNVkpbh_FQ",
+  "DESCRIPCION": "Un cantero griego llamado Teseo inicia una revuelta en contra de un rey sanguinario que quiere expulsar a los dioses del Olimpo y convertirse en el amo del mundo.",
   "TRAILER": "https:\/\/youtu.be\/j8bDBCxrgBQ?si=QjgRYJny4DO9_enx",
   "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/nwdlSPAcGH69EYCz99J3GHapDSo.jpg",
   "TIPO": "PELICULA",
@@ -595,6 +599,10 @@
  {
   "NOMBRE": "X-Men: Dark Phoenix",
   "ID": "48",
+  "AÑO": "2019",
+  "GENERO": "Acción\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1gypPqGd2gRUrvUIABYdWUw",
+  "DESCRIPCION": "Durante una misión en el espacio, Jean Grey es alcanzada por una misteriosa fuerza cósmica y la radiación la ha hecho muy poderosa e inestable. Los X-Men deberán detener a la extraña entidad que se ha apoderado de Jean.",
   "TRAILER": "https:\/\/youtu.be\/Nly3-14vLh0?si=-3MkYLr454l8pi3y",
   "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/o6e63EKlj5hRiqW5AmoDYh9Rw8u.jpg",
   "TIPO": "PELICULA",
@@ -603,162 +611,434 @@
  {
   "NOMBRE": "Escuadrón Suicida",
   "ID": "49",
+  "AÑO": "2016",
+  "GENERO": "Acción\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1XmvotJkTbDMD7Hpbn0Rapw",
+  "DESCRIPCION": "La oficial del departamento de inteligencia de los EE.UU., Amanda Waller, ha convocado a un grupo de individuos dispares y viles que no tienen nada que perder. Este equipo, formado por los supervillanos más peligrosos, recibirán el arsenal más poderoso al alcance del gobierno y se enfrentarán a una complicada misión para derrotar a una enigmática entidad.",
   "TRAILER": "https:\/\/youtu.be\/IblLmbGxw1Q?si=5RhNaq8vfA3Iq7G4",
   "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/3hTJTQzrDlmar4HhIsq2VlwG583.jpg",
   "TIPO": "PELICULA",
   "FONDO": "https:\/\/media.themoviedb.org\/t\/p\/w780\/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg"
  },
  {
-  "ID": "50"
+  "NOMBRE": " Escuadrón Suicida 2",
+  "ID": "50",
+  "AÑO": "2021",
+  "GENERO": "Acción\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1wZUivR0lzPabCZ-PwNa-JQ",
+  "DESCRIPCION": "La oficial del departamento de inteligencia de los EE.UU., Amanda Waller, ha convocado a un grupo de individuos dispares y viles que no tienen nada que perder. Este equipo, formado por los supervillanos más peligrosos, recibirán el arsenal más poderoso al alcance del gobierno y se enfrentarán a una complicada misión para derrotar a una enigmática entidad.",
+  "TRAILER": "https:\/\/youtu.be\/ixhKuVROAsE?si=ydTMf1_21IARH8Uw",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/sbN2HoS2kzKS1qGSeCJXzABuTyk.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/imgmedia.perulegal.pe\/1200x630\/perulegal\/original\/2021\/08\/10\/610d7628fcd1e73a204defd5.jpg"
  },
  {
-  "ID": 51
+  "NOMBRE": "The Batman",
+  "ID": 51,
+  "AÑO": 2022,
+  "GENERO": "Acción\/Crimen",
+  "LINK": "https:\/\/terabox.com\/s\/1_QNmXR6W0rJnK8Th3CSm-w",
+  "DESCRIPCION": "Batman explora la corrupción existente en la ciudad de Gotham y el vínculo de esta con su propia familia. Además, entra en conflicto con un asesino en serie conocido como \"el Acertijo\".",
+  "TRAILER": "https:\/\/youtu.be\/fWQrd6cwJ0A?si=8vRtlJlJnlntIxxZ",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/p83Z4d07bACDAGfKirBku5qwPgV.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/a.ltrbxd.com\/resized\/sm\/upload\/h1\/on\/1p\/hg\/the-batman-1200-1200-675-675-crop-000000.jpg?v=1f59052f03"
  },
  {
-  "ID": 52
+  "NOMBRE": "Spirit: el corcel indomable",
+  "ID": 52,
+  "AÑO": 2002,
+  "GENERO": "Infantil\/Wéstern",
+  "LINK": "https:\/\/terabox.com\/s\/1BJ5fDlP3_HrGjDZN5h1Eug",
+  "DESCRIPCION": "Un caballo salvaje viaja a través de la frontera americana, hace amistad con un indio lakota y encuentra el amor con una yegua.",
+  "TRAILER": "https:\/\/youtu.be\/P5UPFnGW384?si=-ofQvw4J1jTX5ur9",
+  "IMG": "https:\/\/media.themoviedb.org\/t\/p\/w500\/qdaRFy6SL0mcHiH9dXHTwpDHigJ.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/765RtpbvtcIIgwdSIglRzYahUDG.jpg"
  },
  {
-  "ID": 53
+  "NOMBRE": "Háblame",
+  "ID": 53,
+  "AÑO": 2022,
+  "GENERO": "Terror\/Sobrenatura",
+  "LINK": "https:\/\/terabox.com\/s\/1icp7ltZAn93VtFk_VqvuLQ",
+  "DESCRIPCION": "Mia piensa cada día en la muerte de su madre, fallecida en circunstancias poco claras. Un día, ella y su grupo de amigos encuentran una mano embalsamada que permite invocar a los espíritus, pero hay puertas que, una vez abiertas, no se pueden cerrar.",
+  "TRAILER": "https:\/\/youtu.be\/kMOk2xrbuOo?si=X0NGepy-_zFaa0Vc",
+  "IMG": "https:\/\/media.themoviedb.org\/t\/p\/w500\/rS8fjd6dYcf64v3ZhAE6fKrxoaF.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/y8M1CS7510KaBFAej58XcjQoJLK.jpg"
  },
  {
-  "ID": 54
+  "NOMBRE": "El sorprendente Hombre-Araña 2: La amenaza de Electro",
+  "ID": 54,
+  "AÑO": 2014,
+  "GENERO": " Acción\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1Kg5eiPnzhp8tN8taN8HVWg",
+  "DESCRIPCION": "Spider-Man mantiene una continua lucha interior entre sus obligaciones diarias como Peter Parker y sus extraordinarias responsabilidades como superhéroe.",
+  "TRAILER": "https:\/\/youtu.be\/U7vjPGJ8THU?si=xpUHDLQGapTGLNZC",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/7538fcdbc34e42d47341c7ccd859e47de891e944398d630dac2f98cb193e5559.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/9b71387e33dd8e4925f37d9de47dd7d0659acf0af7bb7adeaeed48163bad1a54.jpg"
  },
  {
-  "ID": 55
+  "NOMBRE": "El Sorprendente Hombre-Araña",
+  "ID": 55,
+  "AÑO": 2012,
+  "GENERO": "Acción\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/11zP2-1Oz9qFhz2nJoIYoRw",
+  "DESCRIPCION": "La investigación de Peter Parker para resolver la desaparición de sus padres lo coloca en el camino de un choque con el alter ego mortal de un científico conocido como el Lagarto.",
+  "TRAILER": "https:\/\/youtu.be\/XmR5HlEPYiw?si=7CVK4RLf9pjxmMkZ",
+  "IMG": "https:\/\/media.themoviedb.org\/t\/p\/w500\/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/a.ltrbxd.com\/resized\/sm\/upload\/or\/rc\/5w\/yi\/the-amazing-spider-man-1200-1200-675-675-crop-000000.jpg?v=32e3ff16d6"
  },
  {
-  "ID": 56
+  "NOMBRE": "Focus",
+  "ID": 56,
+  "AÑO": 2015,
+  "GENERO": "Crimen\/Romance",
+  "LINK": "https:\/\/1024terabox.com\/s\/1groZiRr0MjANUEcpDuTdzQ",
+  "DESCRIPCION": "Un estafador veterano apoya a una joven y atractiva mujer, pero las cosas se complican cuando ellos se involucran románticamente.",
+  "TRAILER": "https:\/\/youtu.be\/7yjPimGBKnI?si=sF5anEdxYESpSwxN",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/glABNvEPMD2563nKu4mUynR65uk.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/pksyJy4BcNwhhrjfvWXfgJwChwp.jpg"
  },
  {
-  "ID": 57
+  "NOMBRE": "El Hombre De Acero",
+  "ID": 57,
+  "AÑO": 2013,
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1tU853lcSjstyV3Rm1V_gWg",
+  "DESCRIPCION": "Con la inminente destrucción de Krypton, Jor-El y su mujer buscan una manera de preservar su raza y envían a su hijo a la Tierra para que viva entre los humanos. El bebé llega a una granja de Kansas, donde es criado en los valores de sus padres adoptivos, Martha y Jonathan Kent. Para la sorpresa de sus padres, el joven Clark empieza a desarrollar poderes sobrehumanos. Al llegar a la edad adulta, Clark Kent descubre que esos poderes representan una esperanza para el mundo.",
+  "TRAILER": "https:\/\/youtu.be\/6wfDLORUC3c?si=nH-qDA--bj_NPLVJ",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/pvdoH3b7I8jhGKvtZVVABfnHXiH.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/media.themoviedb.org\/t\/p\/w780\/rPaqhsSMCky0UXVW4qmNOJq5Orp.jpg"
  },
  {
-  "ID": 58
+  "NOMBRE": "Skin",
+  "ID": 58,
+  "GENERO": "Crimen \/Drama",
+  "LINK": "https:\/\/terabox.com\/s\/1nhJbaNxCkzl32v5mX0gJog",
+  "DESCRIPCION": "Un joven intenta abandonar la organización supremacista blanca a la que pertenece desde que era adolescente. A pesar de que sus antiguos amigos ahora son sus enemigos, él está decidido a renunciar a la violencia.",
+  "TRAILER": "https:\/\/youtu.be\/8uc30b4kZws?si=XzWa3H6U6v6Bh0wX",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/b2neTXG4dH5LI6yTIrrQbT5lLnm.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/4Hs1UecyR0uTnGkJppq3ma9blZH.jpg"
  },
  {
-  "ID": 59
+  "NOMBRE": "Euphoria",
+  "ID": 59,
+  "AÑO": 2019,
+  "GENERO": "Drama",
+  "LINK": "https:\/\/terabox.com\/s\/1Ce_yMHilrnV6jY0t3NOaDw",
+  "DESCRIPCION": "Serie dramática sobre una adolescente que se enfrenta a la adicción y a los retos habituales de la adolescencia. Presenta muchos contenidos que sobrepasan los límites relacionados con el sexo, las drogas y la violencia sexual.",
+  "TRAILER": "https:\/\/youtu.be\/nqSQUrlnB9s?si=XNiD_yGOx9xVIgMa",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+  "TIPO": "SERIE",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/kqeCh3Dyy898mbGyLsa8lpezkdp.jpg"
  },
  {
-  "ID": 60
+  "NOMBRE": "Deadpool 3 (Deadpool & Wolverine)",
+  "ID": 60,
+  "AÑO": 2024,
+  "GENERO": "Acción\/Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1VkVYT1ZzVEKcJA5lDD6pjw",
+  "DESCRIPCION": "Lobezno se recupera de sus heridas cuando se cruza con el bocazas, Deadpool, que ha viajado en el tiempo para curarlo con la esperanza de hacerse amigos y formar un equipo para acabar con un enemigo común.",
+  "TRAILER": "https:\/\/youtu.be\/UzFZR2dRsSY?si=FHYOff-11C9c4v8q",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/1ecutECxMnuyjsEJRIrw6QINwTt.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/jxjIKaABRNvhO9mXlfCrAQQFZdL.jpg"
  },
  {
-  "ID": 61
+  "NOMBRE": "Spider-Man: Regreso a casa",
+  "ID": 61,
+  "LINK": "https:\/\/terabox.com\/s\/1m5T9zvVW5Z_NBxeDWBzgYQ",
+  "DESCRIPCION": "Peter Parker asume su nueva identidad como Spider-Man y regresa a vivir con su tía después de su aventura con los Vengadores. Al volver, mientras sigue bajo la tutela de Tony Stark, descubre que ha surgido un nuevo y despiadado enemigo que pretende destruir todo lo que ama: el Buitre.",
+  "TRAILER": "https:\/\/youtu.be\/XX47Sb2y-4Q?si=pZRU-W5NwNSunsiR",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/j4vEhYjOG3CEdh5GIycTWk5vz7T.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/i.pinimg.com\/736x\/a2\/e1\/ff\/a2e1ffea1a4b5d084c4849ab4cd3d14b.jpg"
  },
  {
-  "ID": 62
+  "NOMBRE": "Spider-Man: sin camino a casa",
+  "ID": 62,
+  "AÑO": 2021,
+  "GENERO": "Acción\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1zxBymmZow7cgfgrvAdu4QQ",
+  "DESCRIPCION": "Esta versión extendida cuenta con más de 11 minutos contenido extra, incluyendo escenas eliminadas.Por primera vez en la historia cinematográfica de Spider-Man, nuestro héroe, vecino y amigo es desenmascarado y por tanto ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un Súper Héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+  "TRAILER": "https:\/\/youtu.be\/r6t0czGbuGI?si=FdywRzMjE7XoHhUn",
+  "IMG": "https:\/\/www.sonypictures.com.co\/sites\/colombia\/files\/2022-04\/SNH_LAS_OnLine_1400x2075.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/wallpapers.com\/images\/hd\/marvel-desktop-spider-man-no-way-home-6ysifm83q57w7imx.jpg"
  },
  {
-  "ID": 63
+  "NOMBRE": "Venom ",
+  "ID": 63,
+  "AÑO": 2018,
+  "GENERO": "Acción\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1svQ2HaPMl6fpEwewo1W3pQ",
+  "DESCRIPCION": "Eddie Brock, un periodista con mala suerte, se encuentra en el lugar equivocado en el momento adecuado, o quizás en el momento más peligroso. Tras intentar exponer los oscuros secretos de una poderosa corporación, su vida da un giro inesperado cuando un ser extraterrestre, conocido como simbionte, se apodera de su cuerpo. Lo que comienza como una lucha por recuperar el control se convierte en una extraña alianza que desata un poder inconmensurable y un apetito incontrolable. ",
+  "TRAILER": "https:\/\/youtu.be\/mYTmQWZkw10?si=XNi7kyh5BvZWd0D5",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/3KJpXD9lKfYylaa70OC1OWhAIg8.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/sTGFs6rhYfvQCAtfe6SM2XV9r0M.jpg"
  },
  {
-  "ID": 64
+  "NOMBRE": "Ted",
+  "ID": 64,
+  "AÑO": 2012,
+  "GENERO": "Comedia\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1qCvwHGEWLVrPB20sofEZXQ",
+  "DESCRIPCION": "Cuando John Bennett era un niño pequeño, pidió el deseo de que Ted, su querido oso de peluche, cobrara vida. Treinta años más tarde, Ted continúa siendo el compañero de John, ante el disgusto de Lori, la novia de John.",
+  "TRAILER": "https:\/\/youtu.be\/9fbo_pQvU7M?si=_ca11f9hmEiV7zop",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/9oBK74TfxR2M3dTiuqOlnYKEDKp.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/oW8Ajgkbc8fMcQstAC1jlq0LzAt.jpg"
  },
  {
-  "ID": 65
+  "NOMBRE": "Ted 2",
+  "ID": 65,
+  "AÑO": 2015,
+  "GENERO": "Comedia\/Fantasía",
+  "LINK": "https:\/\/terabox.com\/s\/1ybypMAfybr8W_-9tISdUpw",
+  "DESCRIPCION": "Cuando John Bennett era un niño pequeño, pidió el deseo de que Ted, su querido oso de peluche, cobrara vida. Treinta años más tarde, Ted continúa siendo el compañero de John, ante el disgusto de Lori, la novia de John.",
+  "TRAILER": "https:\/\/youtu.be\/S3AVcCggRnU?si=sW1UJHbKGNQ7G_Pe",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/kjOKnYJakcZ0sApcgcW3hBR8WPu.jpg"
  },
  {
-  "ID": 66
+  "NOMBRE": "La Otra Cara De La Luna",
+  "ID": 66,
+  "AÑO": 2024,
+  "GENERO": "Romance\/Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1ftxQtwGGcEQ3WOfkZQfsJQ",
+  "DESCRIPCION": "La especialista en publicidad Kelly Jones es contratada por la NASA para la promoción del alunizaje del Apollo 11. Lo que ella jamás pensó que ocurriría al aceptar el trabajo era encontrar el amor en una misión así.",
+  "TRAILER": "https:\/\/youtu.be\/1KGGbgYW6_w?si=S446IN6tA5GvFKnb",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/tWDZF3PuigBvYisM83ZPuWM4v89.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/2b81f7d19e9db8d7ccb5b0d5f1e28303a7df66de3f6f05a6fc164147096eb649.jpg"
  },
  {
-  "ID": 67
+  "NOMBRE": "La Morgue",
+  "ID": 67,
+  "AÑO": 2016,
+  "GENERO": "Terror\/Misterio",
+  "LINK": "https:\/\/terabox.com\/s\/1WL_wTEUz39ELoGArjwo-JA",
+  "DESCRIPCION": "Una bella joven llega a la morgue sin nombre. Los dos forenses, padre e hijo, deciden llamarla Jane Doe. Después de la autopsia, los dos patólogos no encuentran ninguna razón aparente de su muerte. Los dos intentarán desvelar los intrigantes motivos del fallecimiento de la joven, pero de repente empiezan a pasar cosas extrañas.",
+  "TRAILER": "https:\/\/youtu.be\/kNMKgYgz-0Q?si=oVNqLOM086uhrvnM",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/nHg0MwBAiaLP4ueKHexLuTkwaLD.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/cdnstatic.usheru.com\/img\/movies\/original_lCtlmlT2n6uvdzSOqXGQ3NaYaRG.jpg"
  },
  {
-  "ID": 68
+  "NOMBRE": "Thor ",
+  "ID": 68,
+  "AÑO": 2011,
+  "GENERO": "Acción\/Fantasía\/Aventura.",
+  "LINK": "https:\/\/terabox.com\/s\/1KMdFSkc_H15pwTFF3jOjng",
+  "TRAILER": "https:\/\/youtu.be\/JOddp-nlNvQ?si=u1y9-ZkjG4GwD6QN",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/kOaKa9doAJanZexIxqzbGkWQ52C.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/ni7qKvsca1vXJlp9cu0JH0ZAJu7.jpg"
  },
  {
-  "ID": 69
+  "NOMBRE": "Thor: Un Mundo Oscuro",
+  "ID": 69,
+  "AÑO": 2013,
+  "GENERO": "Acción\/Fantasía\/Aventura.",
+  "LINK": "https:\/\/terabox.com\/s\/1mCgcyjd7vxzepu1CNCkUTg",
+  "TRAILER": "https:\/\/youtu.be\/_87P6WrC8C0?si=sikctEnWqa5iNga_",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/yBwjiwIzcvW4zh5uKWTc5UMgnUc.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/uhYoytlNaq46dG81wLmHqaSuzWu.jpg"
  },
  {
-  "ID": 70
+  "NOMBRE": "Thor: Ragnarok",
+  "ID": 70,
+  "AÑO": 2017,
+  "GENERO": "Acción\/Fantasía\/Aventura.",
+  "LINK": "https:\/\/terabox.com\/s\/15MKuATcY20L0HgS2M5CHPw",
+  "TRAILER": "https:\/\/youtu.be\/Cdp7Xo0x0Uw?si=dptN0A8xLHTU8ozU",
+  "IMG": "https:\/\/media.themoviedb.org\/t\/p\/w500\/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg"
  },
  {
-  "ID": 71
+  "NOMBRE": "Thor: Amor Y Trueno",
+  "ID": 71,
+  "AÑO": 2022,
+  "GENERO": "Acción\/Fantasía\/Aventura.",
+  "LINK": "https:\/\/terabox.com\/s\/1eCIqyBoQeSmZox0BArLQ1Q",
+  "TRAILER": "https:\/\/youtu.be\/vKKu-Wt7O2Q?si=Ai9A1ikyxK1QfdGh",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/jSUvgiFFoGefrqwTv84lw953WF7.jpg"
  },
  {
-  "ID": 72
+  "NOMBRE": "Proyecto X",
+  "ID": 72,
+  "AÑO": 2012,
+  "GENERO": "Comedia\/Acción",
+  "LINK": "https:\/\/terabox.com\/s\/1rjkub0S1_Y53RtRFp17Ldg",
+  "DESCRIPCION": "Tres estudiantes de secundaria deciden organizar una fiesta salvaje en casa de uno de ellos, aprovechando que sus padres no están. Quieren hacer que la fiesta sea inolvidable, así que deciden grabarlo todo. Parece que la fiesta es todo un éxito: todo el mundo está bebiendo y los ánimos están por los aires. Sin embargo, una serie de complicaciones imprevistas harán que la fiesta se descontrole.",
+  "TRAILER": "https:\/\/youtu.be\/fMJ4IBnU0Ks?si=NtgCg86T828rdRkP",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/7bjSK3jQZf7lwEcwsux7Lso5eWi.jpg"
  },
  {
-  "ID": 73
+  "NOMBRE": "Scary Movie",
+  "ID": 73,
+  "AÑO": 2000,
+  "GENERO": "Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1SMT7lHs1UTrMHNltXX4LYw",
+  "DESCRIPCION": "Comedia",
+  "TRAILER": "https:\/\/youtu.be\/3iy0pE1FBkc?si=QDKWuDl8TftXoCnq",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/m5dA4JZsj78EBTa2D6imWOAebwB.jpg"
  },
  {
-  "ID": 74
+  "NOMBRE": "Scary Movie 2",
+  "ID": 74,
+  "AÑO": 2001,
+  "GENERO": "Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1NylQ89ExHSuaKwgF4f3HQg",
+  "DESCRIPCION": "Comedia",
+  "TRAILER": "https:\/\/youtu.be\/zCFZUZxBVuI?si=XimWC4ZzcKxOgQ-a",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/jTYWYHpcWLLnrlbueigHZeMuvaJ.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/tcvPFdANexMxEsIUZnzjxBJbgkb.jpg"
  },
  {
-  "ID": 74
+  "NOMBRE": "Scary Movie 3",
+  "ID": 74,
+  "AÑO": 2002,
+  "GENERO": "Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1P0xHfieOuxMXx8Dyi_U1sg",
+  "DESCRIPCION": "Comedia",
+  "TRAILER": "https:\/\/youtu.be\/O21wD8Tzr2k?si=Q7CagENUf4UN3i2Y",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/A6t3OUc1PSb7Tyvsinh9vJA1HlL.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/nF74HKjNe7X54XMcIc7ulK5InxR.jpg"
  },
  {
-  "ID": 76
+  "NOMBRE": "Scary Movie 4",
+  "ID": 76,
+  "AÑO": 2006,
+  "GENERO": "Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1xufdAu1pZ7Wrhpq_-bP4nQ",
+  "DESCRIPCION": "Comedia",
+  "TRAILER": "https:\/\/youtu.be\/-Bwr6LB5Dqw?si=S3wtxJyEQPTSWbB6",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/4SMqo8Me8aCT4KAVLeG9pk8VYiN.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/uFcFomOJbRHGsPId6U4Xcdacvt1.jpg"
  },
  {
-  "ID": 77
+  "NOMBRE": "Scary Movie 5",
+  "ID": 77,
+  "AÑO": 2013,
+  "GENERO": "Comedia",
+  "LINK": "https:\/\/terabox.com\/s\/1aFIZljXDkBse5evP_Ua4IA",
+  "DESCRIPCION": "Comedia",
+  "TRAILER": "https:\/\/youtu.be\/RMDZ8M47j0I?si=vgumu3XlNAlkFZXQ",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/9WNozxN2UVf7rA73FJBWdWJZhfP.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/images.bauerhosting.com\/legacy\/empire-tmdb\/films\/4258\/images\/jNoW4xqUljVyVQ1yrrhv9TGOWlM.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80"
  },
  {
-  "ID": 78
+  "NOMBRE": "Condena Brutal",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 79
+  "NOMBRE": "Titanes del pacífico: La insurrección",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 80
+  "NOMBRE": "Finch",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 81
+  "NOMBRE": "Avengers: Era de Ultrón ",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 82
+  "NOMBRE": "Iron Man 1 ",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 83
+  "NOMBRE": "Gato Con Botas: El Último Deseo",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 84
+  "NOMBRE": "En El Bosque",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 84
+  "NOMBRE": "Capitán América: el primer vengador",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 86
+  "NOMBRE": "Brightburn: Hijo De La Oscuridad",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 87
+  "NOMBRE": "Sonic ",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 88
+  "NOMBRE": "Sonic 2",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 89
+  "NOMBRE": "Sobreviviendo En El Desierto",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 90
+  "NOMBRE": "Un Don Excepcional",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 91
+  "NOMBRE": "Revenant: El Renacido",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 92
+  "NOMBRE": "Presagio",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 93
+  "NOMBRE": "Super Mario Bros",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 94
+  "NOMBRE": "El Hombre Araña 3",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 95
+  "NOMBRE": "El Hombre Araña 2",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 96
+  "NOMBRE": "El Hombre Araña",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 97
+  "NOMBRE": "Capitán América: Civil War",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 98
+  "NOMBRE": "Sin lugar para los débiles",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 99
+  "NOMBRE": "Capitán América y el Soldado del Invierno",
+  "TIPO": "PELICULA"
  },
  {
-  "ID": 100
+  "NOMBRE": "La Jugada Maestra ",
+  "TIPO": "PELICULA"
  }
 ]
