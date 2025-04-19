@@ -183,7 +183,7 @@
  {
   "NOMBRE": "Niebla sin fronteras",
   "ID": "15",
-  "AÑO": 2025,
+  "AÑO": 2024,
   "DURACION": "1h 52m",
   "GENERO": "Suspenso\/Crimen",
   "LINK": "https:\/\/terabox.com\/s\/1cd_tl7lQrnFzm6mPWH0nSg",
@@ -435,7 +435,11 @@
   "DURACION": " 1h 49m",
   "GENERO": "Infantil\/Comedia",
   "LINK": "https:\/\/terabox.com\/s\/1pBIRRfLESgmsF3O3TOGMQA",
-  "DESCRIPCION": "Nanny McPhee regresa para ayudar a una madre con sus hijos traviesos..."
+  "DESCRIPCION": "Nanny McPhee regresa para ayudar a una madre con sus hijos traviesos...",
+  "TRAILER": "https:\/\/youtu.be\/54xMw6eouOM?si=qpuUmOs-D7qknVYm",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/7671aaffd5db72bdf442efe042df405df1f28b42584a1effd399ff0aa0bd2872.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/d856661a79c39a6d5e4e5899da6e20f896ddfe7170bff6206833c74d9a1412e7.jpg"
  },
  {
   "NOMBRE": "Crepúsculo",
@@ -443,7 +447,11 @@
   "AÑO": 2008,
   "GENERO": "Fantasía\/Romance",
   "LINK": "https:\/\/terabox.com\/s\/1DfAdE5n6YmBMGkFIRpTVWg",
-  "DESCRIPCION": "Bella Swan se enamora de un vampiro llamado Edward Cullen..."
+  "DESCRIPCION": "Bella Swan se enamora de un vampiro llamado Edward Cullen...",
+  "TRAILER": "https:\/\/youtu.be\/njoiht3soi0?si=zI2YjYotOy6MiiYe",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTe9thNCzWfu1oeTr5mCgJj29qCDyVJx6KBow&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTFVgNVy2QLJpQ9X9IGj3M8WtB_0Z9ZuebxlA&s"
  },
  {
   "NOMBRE": "Crepúsculo: Luna nueva",
@@ -451,7 +459,11 @@
   "AÑO": 2009,
   "GENERO": "Fantasía\/Romance",
   "LINK": "https:\/\/terabox.com\/s\/1xQ4DtxV6C98jvMJI7qZx4w",
-  "DESCRIPCION": "Bella queda devastada cuando Edward la abandona..."
+  "DESCRIPCION": "Bella queda devastada cuando Edward la abandona...",
+  "TRAILER": "https:\/\/youtu.be\/oDu2ifwrQNA?si=fEkDLRAQRfMtw9-B",
+  "IMG": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/70\/52\/93\/20236833.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/occ-0-8407-92.1.nflxso.net\/dnm\/api\/v6\/Z-WHgqd_TeJxSuha8aZ5WpyLcX8\/AAAABfuIwq4FVpmZiwFAiSW9zz0fEdvYUEn4QXiQR6ClPfnoTKyKvH-y_S2tnoe91mbk-57sJPl4EU4KWK7FpzuSIL9J4gtTGFDO6dic.jpg?r=6ac"
  },
  {
   "NOMBRE": "Crepúsculo: Eclipse",
@@ -459,7 +471,11 @@
   "AÑO": 2010,
   "GENERO": "Fantasía\/Romance",
   "LINK": "https:\/\/terabox.com\/s\/1_FAytJopqYLZ7RPs6LRErA",
-  "DESCRIPCION": "Bella debe elegir entre Edward y Jacob mientras una amenaza se acerca..."
+  "DESCRIPCION": "Bella debe elegir entre Edward y Jacob mientras una amenaza se acerca...",
+  "TRAILER": "https:\/\/youtu.be\/Oq_rDGGFvNM?si=A8HEtswN8kVR9X5o",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQVhbnv0xePnMkG0cg-Oupk0lyFA8vKbtdoAw&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQTWJ6PLOqYQI4naVVNqpvbQF52BOl0-hwWzA&s"
  },
  {
   "NOMBRE": "Crepúsculo: Amanecer – Parte 1",
@@ -467,7 +483,11 @@
   "AÑO": 2011,
   "GENERO": "Fantasía\/Romance",
   "LINK": "https:\/\/terabox.com\/s\/1tN5iO8Dn9StX9HQCMXapHQ",
-  "DESCRIPCION": "Bella y Edward se casan, pero un embarazo inesperado cambia todo..."
+  "DESCRIPCION": "Bella y Edward se casan, pero un embarazo inesperado cambia todo...",
+  "TRAILER": "https:\/\/youtu.be\/sunZG5puPbE?si=gcfOgqU_P3zhpayG",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSZMBZ3IA59L8f0OQhBbybPBi312JL1RjEkUA&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcThJ7RnHtVhNF_z44n5qtlu-EFfoOdeiHOhBhsxPO270DhPc3UR5snctjt7o9SdVdwMNkQ&usqp=CAU"
  },
  {
   "NOMBRE": "Crepúsculo: Amanecer – Parte 2",
@@ -475,13 +495,21 @@
   "AÑO": 2012,
   "GENERO": "Fantasía\/Romance",
   "LINK": "https:\/\/terabox.com\/s\/1xTrgRwc9ylISxNRmHMyQnw",
-  "DESCRIPCION": "Bella se adapta a su nueva vida como vampiro mientras protege a su hija..."
+  "DESCRIPCION": "Bella se adapta a su nueva vida como vampiro mientras protege a su hija...",
+  "TRAILER": "https:\/\/youtu.be\/GKJSf4ktrPE?si=21c6HSWncq41vebk",
+  "IMG": "https:\/\/static.wikia.nocookie.net\/crepusculo\/images\/3\/3d\/Final_poster.jpg\/revision\/latest?cb=20121109090113",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/akamai.sscdn.co\/uploadfile\/letras\/playlists\/6\/5\/a\/7\/65a7a731772f4c19974d0d5b79f0a0c3.jpg"
  },
  {
   "NOMBRE": "Mickey y sus amigos: Dulce o truco",
   "ID": "46",
   "GENERO": "Infantil",
   "LINK": "https:\/\/terabox.com\/s\/1bQJchSr5Br995xiS0cSgLQ",
-  "DESCRIPCION": "Mickey y sus amigos enfrentan un hechizo durante la noche de Halloween..."
+  "DESCRIPCION": "Mickey y sus amigos enfrentan un hechizo durante la noche de Halloween...",
+  "TRAILER": "https:\/\/youtu.be\/v3X1O36Hh8Y?si=UJpUN-RVD_EC9pvT",
+  "IMG": "https:\/\/static.wikia.nocookie.net\/doblaje\/images\/7\/72\/Mickey_y_sus_amigos%2C_dulce_o_truco_portada.jpg\/revision\/latest?cb=20231118035114&path-prefix=es",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/disney\/7A5A25FE2FEF14891C3D507982CCF19936FE225624600048A9704CDC1CADC732\/scale?width=1200&aspectRatio=1.78&format=webp"
  }
 ]
