@@ -951,99 +951,280 @@
  },
  {
   "NOMBRE": "Condena Brutal",
-  "TIPO": "PELICULA"
+  "ID": 78,
+  "GENERO": "Acción\/Suspenso",
+  "LINK": "https:\/\/terabox.com\/s\/1v7Wy7SeCz8M8WjGx0dPNZA",
+  "DESCRIPCION": "Un obrero encarcelado injustamente lucha por sobrevivir a los abusos del sádico celador de una prisión de Nueva Jersey.",
+  "TRAILER": "https:\/\/youtu.be\/QbUSR2CSK6w?si=7Bgy4XmL051aD0Vw",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BOTVkNDE2ZDUtYjAzOC00OWYyLWI5M2ItNTgxYjAxNGY4ZWFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/6aa2bfeec05dd66a8f7ae2a45270ad9c9778a1132ead63e7e5f618c8faae5ce3.jpg"
  },
  {
   "NOMBRE": "Titanes del pacífico: La insurrección",
-  "TIPO": "PELICULA"
+  "ID": 79,
+  "AÑO": 2018,
+  "GENERO": "Acción",
+  "LINK": "https:\/\/terabox.com\/s\/1Er1TDaOKXFwzuZ6D6kpBWA",
+  "DESCRIPCION": "Diez años después de la guerra contra los Kaijus, la humanidad cree que la amenaza ha sido erradicada. Sin embargo, en *Titanes del Pacífico: La Insurrección*, una nueva generación de pilotos y Jaegers debe enfrentarse a un peligro inesperado que amenaza con sumergir al mundo en el caos una vez más. ",
+  "TRAILER": "https:\/\/youtu.be\/CMEyH7Ka5B0?si=Lmk7ou4G0JHAx9-V",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/1951fa56ecfac56f26b694598ed2e85f5f7ae7cd08481276394ee080b0a9980a._SX1080_FMjpg_.jpg"
  },
  {
   "NOMBRE": "Finch",
-  "TIPO": "PELICULA"
+  "ID": 80,
+  "AÑO": 2021,
+  "GENERO": "Ciencia ficción\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1YazvLP5DgQ2aT44hjB09bQ",
+  "DESCRIPCION": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
+  "TRAILER": "https:\/\/youtu.be\/CJn51fopkSQ?si=0n1EcRuDRNIgAEqf",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNmJhZDFlNGEtMTFiMy00NTNhLTlmMjUtNWQ5NTRiZjg2NmE3XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/M\/MV5BM2U3NGE0NDEtYTFiMC00ZDg2LWJjZGMtOGI2N2M4MzM0MDg5XkEyXkFqcGc@._V1_.jpg"
  },
  {
   "NOMBRE": "Avengers: Era de Ultrón ",
-  "TIPO": "PELICULA"
+  "ID": 81,
+  "AÑO": 2015,
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/14I7jzCwdBj4ma5nQ_ZeJJQ",
+  "DESCRIPCION": "Tony Stark y Bruce Banner activan un programa de inteligencia artificial diseñado para proteger al mundo, pero algo sale terriblemente mal. El programa, conocido como Ultron, decide que la humanidad es el verdadero enemigo y se embarca en una misión para destruirla. ",
+  "TRAILER": "https:\/\/youtu.be\/_zusTYBSOvY?si=A3tCL-eQLjhUylTT",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTM0NDBkZWEtYWI4Zi00ZTg3LTg1YjQtNDRiM2Y3MjNjZTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/images4.alphacoders.com\/673\/673901.jpg"
  },
  {
   "NOMBRE": "Iron Man 1 ",
-  "TIPO": "PELICULA"
+  "ID": 82,
+  "AÑO": "2008 ",
+  "DURACION": "2h 6m",
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1Hs1GxSCwc_QVOnjtmKRnaw",
+  "DESCRIPCION": "Un empresario millonario construye un traje blindado y lo usa para combatir el crimen y el terrorismo. ",
+  "TRAILER": "https:\/\/youtu.be\/8ugaeA-nMTc?si=PmP-FWTcsJ5djPRb",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTczNzM5OTAyMF5BMl5BanBnXkFtZTcwNTEzNTIzMw@@._V1_.jpg"
  },
  {
   "NOMBRE": "Gato Con Botas: El Último Deseo",
-  "TIPO": "PELICULA"
+  "ID": 83,
+  "AÑO": 2022,
+  "GENERO": "Animación \/ Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1FD6aOS8b-iOD4YfUjWXCAg",
+  "DESCRIPCION": "El Gato con Botas descubre que, debido a su pasión por la aventura, ha gastado ya 8 de sus 9 vidas. Por tanto, emprende un peligroso viaje en busca del legendario Último Deseo para solicitar que le restauren las vidas que ya perdió.",
+  "TRAILER": "https:\/\/youtu.be\/hxJyt1oDyOA?si=MIqKiCyQ49K_wTmj",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYzRjYjYzMGItOGJiNy00MWYzLWIwY2ItODA3OGM3MTExMTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNWE2ZjRkYmItNWJjYi00YmRkLWJjZWMtYWVhMDU2OWM2NjU5XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
  },
  {
   "NOMBRE": "En El Bosque",
-  "TIPO": "PELICULA"
+  "ID": 84,
+  "AÑO": 2014,
+  "GENERO": "Musical\/Fantasía \/ Cuentos",
+  "LINK": "https:\/\/terabox.com\/s\/1Bqxzni_dgs2PG7QOlQRNvA",
+  "DESCRIPCION": "Versión moderna de varios cuentos de los Hermanos Grimm que entrelaza las tramas de algunas historias seleccionadas y explora las consecuencias de los deseos y las inquietudes de los personajes. Un musical que sigue los cuentos clásicos de Cenicienta (Anna Kendrick), Caperucita Roja (Lilla Crawford), Jack y las judías mágicas (Daniel Huttlestone) y Rapunzel (MacKenzie Mauzy).",
+  "TRAILER": "https:\/\/youtu.be\/St22pFO0hqE?si=si8OobaTaPS5rGal",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTMTg3ROcuLOstLv4g3x-5P4ty0zA5_aF_WTA&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/nk2ZvLLpAyXxT0ySQnQ1K4h8fdr.jpg"
  },
  {
   "NOMBRE": "Capitán América: el primer vengador",
-  "TIPO": "PELICULA"
+  "ID": 85,
+  "AÑO": 2011,
+  "DURACION": "2h 4m",
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/19UlXd3TtQpgTH5C87HVOQg",
+  "DESCRIPCION": "Tras tres meses de someterse a un programa de entrenamiento físico y táctico, encomiendan a Steve Rogers su primera misión como Capitán América. Armado con un escudo indestructible, emprende la guerra contra la perversa organización HYDRA.",
+  "TRAILER": "https:\/\/youtu.be\/B96CZzcM1CA?si=NwjvEWi-BgOGRmcu",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNTMzMTM5MDgtOThmNS00Yzc1LTg3YjAtMzgwZjQzMGUzYmRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/kiB4ntjycXDLDDI6qO7MC6j0Zqm.jpg"
  },
  {
   "NOMBRE": "Brightburn: Hijo De La Oscuridad",
-  "TIPO": "PELICULA"
+  "ID": 86,
+  "AÑO": 2019,
+  "GENERO": " Terror\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1yDll866NYECoMKkYaooKXQ",
+  "DESCRIPCION": "¿Qué ocurre si un niño extraterrestre aterriza en la Tierra? ¿Qué pasaría si este niño no se convierte en héroe sino en algo mucho más siniestro? Todas las plegarias de una pareja se verán truncadas cuando el niño use sus poderes de manera siniestra.",
+  "TRAILER": "https:\/\/youtu.be\/uRMpUvqTTzM?si=80RlPxDHXRo9vxs2",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/9djW4jMjC8bylweSBQX0dvo6UQo.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/w1280\/gxuskbFqpt78M8h2evZea7avYUO.jpg"
  },
  {
   "NOMBRE": "Sonic ",
-  "TIPO": "PELICULA"
+  "ID": 87,
+  "AÑO": 2020,
+  "GENERO": "Aventuras\/Fantasía \/Comedia\/Acción \/Cine familiar.",
+  "LINK": "https:\/\/terabox.com\/s\/11_LzcqYPVlWo7fj53Gt9og",
+  "DESCRIPCION": "Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.",
+  "TRAILER": "https:\/\/youtu.be\/MsaAnA2EZQg?si=ZqeOdlKoRbUE5whc",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg"
  },
  {
   "NOMBRE": "Sonic 2",
-  "TIPO": "PELICULA"
+  "ID": 88,
+  "AÑO": 2022,
+  "GENERO": "Aventuras\/Fantasía \/Comedia\/Acción \/Cine familiar.",
+  "LINK": "https:\/\/terabox.com\/s\/1wczEqza6ITWdj7RZ052dlg",
+  "DESCRIPCION": "Sonic intenta navegar por las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Pronto deben unir fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.",
+  "TRAILER": "https:\/\/youtu.be\/xMqnQLeQgSw?si=K3yMY1M8DMPbdmjw",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/lnKq1Ote36Kln8RhTKboch6NEXs.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/8wwXPG22aNMpPGuXnfm3galoxbI.jpg"
  },
  {
   "NOMBRE": "Sobreviviendo En El Desierto",
-  "TIPO": "PELICULA"
+  "ID": 89,
+  "AÑO": 2016,
+  "GENERO": "Bélico\/Suspenso",
+  "LINK": "https:\/\/terabox.com\/s\/1ZVeU3wLUr5qAk5__Yfs_eA",
+  "DESCRIPCION": "En medio del desierto, en un área con más de 33 millones de minas enterradas, el sargento Mike Stevens tiene la misión de localizar al líder de una célula terrorista. Después de tres meses en el desierto, el sargento se encuentra solo en territorio enemigo, con el pie encima de una mina activa. Sin agua ni comida, Mike debe poner en práctica todo su entrenamiento y no moverse durante las 52 horas siguientes, hasta que llegue un convoy a salvarlo.",
+  "TRAILER": "https:\/\/youtu.be\/YiaMXagG9z0?si=G2fK2eUt7M1rwLoy",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/babda39ead802b9d0a6e6721c0eafbd7d878507a95c6ec90526d5d67f0b84107.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/c87ce5a4405aa4f6b5fb5e412ba83ac5ebb83922d9362c26d52e551b96d94f86.jpg"
  },
  {
   "NOMBRE": "Un Don Excepcional",
-  "TIPO": "PELICULA"
+  "ID": 90,
+  "AÑO": 2017,
+  "GENERO": "Drama\/Comedia dramática",
+  "LINK": "https:\/\/terabox.com\/s\/1kZLdgeCqDzQ330JJP386uw",
+  "DESCRIPCION": "Frank y su madre se enfrentan por la custodia de Mary, la sobrina de Frank. Mary es una niña con un talento fuera de lo común para las matemáticas y la madre de Frank, una mujer muy brillante, quiere tutelarla; pero él se niega a ceder su custodia porque desea que Mary disfrute de una infancia normal.",
+  "TRAILER": "https:\/\/youtu.be\/A9gD70WQQC0?si=3wm2XADFze9sIrOQ",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/qKdFy0F2oZIyIL11SdJsyjYpN1.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/6526b3050ddfd4c7d47ad0d4f3e9a467e04003f3195823d943af607cccffe278.jpg"
  },
  {
   "NOMBRE": "Revenant: El Renacido",
-  "TIPO": "PELICULA"
+  "ID": 91,
+  "AÑO": 2015,
+  "GENERO": "Wéstern\/Acción",
+  "LINK": "https:\/\/terabox.com\/s\/12Ul-4jp1e4S0gCoiRg0qhQ",
+  "DESCRIPCION": "Hugh Glass, un trampero y explorador de finales del siglo XIX resulta herido de muerte por el ataque de un oso. Sus compañeros deciden dejarle para proseguir con la expedición. Glass deberá enfrentarse a un territorio hostil para poder vengarse de quienes lo abandonaron a su suerte, especialmente de la traición llevada a cabo por quien consideraba su fiel confidente.",
+  "TRAILER": "https:\/\/youtu.be\/a8HRA49kaok?si=PzsFqDebTfou77Vd",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQBh4UJ1Mn9MOPyJx2v_6Q8OSZMYNpl_018Hg&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/rUUofmWzRmuSN10jjGgmGgRNFAB.jpg"
  },
  {
   "NOMBRE": "Presagio",
-  "TIPO": "PELICULA"
+  "ID": 92,
+  "AÑO": 2009,
+  "GENERO": "Suspenso\/Ciencia ficción",
+  "LINK": "https:\/\/terabox.com\/s\/1WpzwDkXz4BZgcUm1LZaUMw",
+  "DESCRIPCION": "Después de leer unas predicciones terribles en una cápsula del tiempo, un profesor de astronomía cree que su familia jugará un papel importante en unos eventos que están por suceder.",
+  "TRAILER": "https:\/\/youtu.be\/QeeiTXWEp-k?si=VkkDfmCwcMSxuQZ1",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/745298502e15f3ce7a793a4a5c2de935def35dbe847b8b5ab23f96cfae9462a0.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/hPd1Ji4hxU1xVjM4RGrHx9L0fDz.jpg"
  },
  {
   "NOMBRE": "Super Mario Bros",
-  "TIPO": "PELICULA"
+  "ID": 93,
+  "AÑO": 2023,
+  "GENERO": "Animación\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1R52ihsBadgcwhpcQ8suI0w",
+  "DESCRIPCION": "Dos hermanos plomeros, Mario y Luigi, caen por las alcantarillas y llegan a un mundo subterráneo mágico en el que deben enfrentarse al malvado Bowser para rescatar a la princesa Peach, quien ha sido forzada a aceptar casarse con él.",
+  "TRAILER": "https:\/\/youtu.be\/SvJwEiy2Wok?si=e4oOuQbLLaqBOeAM",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/iXD2VjzyXmOGJrR0Kt46IUpH3DE.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
  },
  {
   "NOMBRE": "El Hombre Araña 3",
-  "TIPO": "PELICULA"
+  "ID": 94,
+  "AÑO": 2007,
+  "GENERO": "Acción",
+  "LINK": "https:\/\/terabox.com\/s\/1qHQlN-W6JzbsX8C_BV2YgA",
+  "DESCRIPCION": "El héroe de Nueva York, Peter Parker, se enfrenta a su batalla más oscura cuando una misteriosa sustancia alienígena se une a su traje, intensificando sus poderes pero también su lado más sombrío. Mientras su arrogancia crece, sus relaciones se desmoronan y nuevos enemigos emergen. Flint Marko, un ladrón común, se convierte en el invencible Hombre de Arena, mientras que Harry Osborn sigue los pasos de su difunto padre como el nuevo Duende Verde, buscando venganza. ",
+  "TRAILER": "https:\/\/youtu.be\/IK2IOPm9FaU?si=xqIplfRU1Ga4EPY_",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/nQZIOTaUUA2z01JoIfuYvVtxWrr.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/6MQmtWk4cFwSDyNvIgoJRBIHUT3.jpg"
  },
  {
   "NOMBRE": "El Hombre Araña 2",
-  "TIPO": "PELICULA"
+  "ID": 94,
+  "AÑO": 2004,
+  "GENERO": "Acción",
+  "LINK": "https:\/\/terabox.com\/s\/1VjGUEuoGZLUH-Lggs7rB5A",
+  "DESCRIPCION": "Peter Parker enfrenta su mayor desafío, y no es solo luchar contra los criminales de Nueva York. Mientras su vida como el Hombre Araña se vuelve cada vez más peligrosa, su vida personal comienza a desmoronarse. Está agotado, sus notas en la universidad están cayendo, y su relación con Mary Jane se tambalea. ",
+  "TRAILER": "https:\/\/youtu.be\/ud80RFnSLG8?si=YgOK2HVci-sel4a_",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/streamcoimg-a.akamaihd.net\/000\/154\/4884\/1544884-Banner-L2-99a271e2d3d641e71604fe831fc0a130.jpg"
  },
  {
   "NOMBRE": "El Hombre Araña",
-  "TIPO": "PELICULA"
+  "ID": 96,
+  "AÑO": 2002,
+  "GENERO": "Acción",
+  "LINK": "https:\/\/terabox.com\/s\/1mPwy6Y1-6PUFDLCuCpKfTw",
+  "DESCRIPCION": "Peter Parker es un adolescente común y corriente... hasta que una mordida de araña radiactiva transforma su vida para siempre. De repente, Peter descubre que ha adquirido poderes sobrehumanos: fuerza increíble, agilidad sorprendente y la capacidad de trepar paredes. Pero con estos nuevos dones también llega una dura lección: \"Con gran poder, viene una gran responsabilidad\". ",
+  "TRAILER": "https:\/\/youtu.be\/t06RUxPbp_c?si=vMaqVEdXE_AT2HGR",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/o2v3dRWUPijPY0n8zqwFCMQEQVN.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/3I4TPYJgdvx9DyjXwyY6JfeG9Ry.jpg"
  },
  {
   "NOMBRE": "Capitán América: Civil War",
-  "TIPO": "PELICULA"
+  "ID": 97,
+  "AÑO": 2016,
+  "DURACION": " 2h 28m",
+  "GENERO": "Acción\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1KlYXagBfqWhiSCXDfbR2tg",
+  "DESCRIPCION": "Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano.",
+  "TRAILER": "https:\/\/youtu.be\/dKrVegVI0Us?si=d82if0t17w7UIaAU",
+  "IMG": "https:\/\/lh5.googleusercontent.com\/proxy\/u9w99z7vJZ_2W5esgXKAqd-sm3fEKdU7mdrsADr3JcPXaof1GvEBdEz8hnOoDtRZRdQUzpVyy-fjs8ycUkm613WzfJcMHnJ9UVSQvGtPi0YlRcqAfnyMz98vGTw640j5",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/66zeFFTFkNIkzAlpYMdgxhUNpRI.jpg"
  },
  {
   "NOMBRE": "Sin lugar para los débiles",
-  "TIPO": "PELICULA"
+  "ID": 98,
+  "AÑO": 2007,
+  "GENERO": "Suspenso\/Wéstern",
+  "LINK": "https:\/\/terabox.com\/s\/1oiJ4PkFI9Bnkc_QmhyiKtw",
+  "DESCRIPCION": "Mientras esta de cacería, Llewelyn Moss descubre las horribles consecuencias de una venta de drogas frustrada. A pesar de saber que no debería, Moss no puede resistirse a tomar el dinero y se apodera de él. El cazador empieza a ser perseguido por un asesino llamado Chigurh. El alguacil Bell también está buscando a Moss, y reflexiona sobre los cambios en el mundo y un oscuro secreto que lo atormenta mientras intenta hallar a Moss para protegerlo.",
+  "TRAILER": "https:\/\/youtu.be\/Oz86ebnkMIo?si=OAhsv26OaZ-LQEyG",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/zEPHUBFa7mFsF9xO5Vzx6mjZ1JE.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/hvAAY1qNrIcTRGw7zsF37MzpvCL.jpg"
  },
  {
   "NOMBRE": "Capitán América y el Soldado del Invierno",
-  "TIPO": "PELICULA"
+  "ID": 99,
+  "AÑO": 2014,
+  "GENERO": "Acción\/Aventura",
+  "LINK": "https:\/\/terabox.com\/s\/1o8z-ToirLWdYD-glAoiacg",
+  "DESCRIPCION": "Tras los devastadores acontecimientos vividos en Nueva York, el superhéroe vive tranquilamente en Washington D.C., intentando adaptarse al mundo moderno. Sin embargo, cuando un colega de es amenazado, Rogers se ve envuelto en una trama de intrigas.",
+  "TRAILER": "https:\/\/youtu.be\/Ics4g1xppFg?si=LQKaKPjzApZmdXNU",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/9n7Tk6Sudr84JpdhmWq5oOydKDr.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/uHZtU7gfI1EUbdzZVsYFsvjJ4LI.jpg"
  },
  {
   "NOMBRE": "La Jugada Maestra ",
-  "TIPO": "PELICULA"
+  "TRAILER": "https:\/\/youtu.be\/uqlLr3x2v1A?si=TD8qC67ORvCC3gYA",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODZiZjg4MmYtMzYyYy00NDlhLTk3ODAtODQzN2VlMTUwNzI5XkEyXkFqcGc@._V1_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/angel55oficial.wordpress.com\/wp-content\/uploads\/2016\/02\/rs_pawn-sacrifice.jpg"
  },
  {
   "NOMBRE": "G20",
-  "ID": 78,
+  "ID": 100,
   "AÑO": 2025,
   "GENERO": " Acción\/Suspenso",
   "LINK": "https:\/\/1024terabox.com\/s\/1Ju1ruwa-YwhyB8giRDOFRA",
