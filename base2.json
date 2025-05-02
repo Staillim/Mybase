@@ -2661,7 +2661,7 @@
  },
  {
   "NOMBRE": "Una película de Minecraft",
-  "ID": 181,
+  "ID": 180,
   "AÑO": 2025,
   "DURACION": "1h 41m",
   "GENERO": "Aventura\/Fantasía",
@@ -2674,7 +2674,7 @@
  },
  {
   "NOMBRE": "Así en la Tierra como en el Infierno",
-  "ID": 182,
+  "ID": 181,
   "AÑO": "2014 ",
   "DURACION": "1h 33m",
   "GENERO": "Terror\/Aventura",
@@ -2687,7 +2687,7 @@
  },
  {
   "NOMBRE": "Milagro En La Celda 7",
-  "ID": 183,
+  "ID": 182,
   "AÑO": 2019,
   "DURACION": "2h 12m",
   "GENERO": "Drama\/Melodrama",
@@ -2697,5 +2697,44 @@
   "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQaFFyUVBhP8j3g6zfyMbgIVitd0hY3jRJYYA&s",
   "TIPO": "PELICULA",
   "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/g592yl3UkLqFHD4zxdJZPeMVgso.jpg"
+ },
+ {
+  "NOMBRE": "Furia de Titanes",
+  "ID": 183,
+  "AÑO": 2010,
+  "DURACION": "1h 46m",
+  "GENERO": "Acción\/Aventura",
+  "LINK": "https:\/\/1024terabox.com\/s\/14akicbzi_qqc5as4t2vIXA",
+  "DESCRIPCION": "Perseo, hijo de Zeus y una mortal, se embarca en una peligrosa misión para salvar la vida de la princesa Andrómeda. Atrapado en una guerra entre dioses, en su épico viaje tendrá que enfrentarse a criaturas aterradoras y poderosas. Entretanto, Hades, dios del inframundo de los muertos planea derrocar a Zeus, el rey de los dioses del Olimpo.",
+  "TRAILER": "https:\/\/youtu.be\/YVkpIkzimV0?si=40At1RH_HQ4j1c8Q",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/7d4db1d6abbab9318d3d98c6d6297169ce94a28011c92456e9a93679d2aa32dc.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/vmE52XvE2yWWQFt4g1x17K070gY.jpg"
+ },
+ {
+  "NOMBRE": "Furia de titanes 2",
+  "ID": 184,
+  "AÑO": 2012,
+  "DURACION": "1h 39m",
+  "GENERO": "Acción\/Aventura",
+  "LINK": "https:\/\/1024terabox.com\/s\/1mKutGPHs1uJMUeU6PIcPnA",
+  "DESCRIPCION": "Diez años después de los sucesos de Furia de titanes, Perseo está decidido a llevar una vida tranquila con su hijo Helio. Sin embargo, los dioses, debilitados por la falta de fe de la humanidad, pierden el control sobre los Titanes, cuyo líder no es otro que Kronos, el padre de Zeus, Hades y Poseidón.",
+  "TRAILER": "https:\/\/youtu.be\/Eb1QQIsEg8A?si=QE40wtT66BiW1cUs",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTU2NTcxODYxNF5BMl5BanBnXkFtZTcwMzAxMzQ1Nw@@._V1_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/d7hybTZpxqcEhsuNphyc11Rl1ae.jpg"
+ },
+ {
+  "NOMBRE": "Ready Player One: comienza el juego",
+  "ID": 185,
+  "AÑO": "2018 ",
+  "DURACION": "2h 20m",
+  "GENERO": "Ciencia ficción\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1PqiwrQy8300kRWO_NX_Png",
+  "DESCRIPCION": "Año 2045: el adolescente Wade Watts es solo una de las millones de personas que se evaden del sombrío mundo real para sumergirse en un mundo utópico virtual donde todo es posible: OASIS. Wade participa en la búsqueda del tesoro que el creador de este mundo imaginario dejó oculto en su obra. No obstante, hay gente muy peligrosa compitiendo contra él.",
+  "TRAILER": "https:\/\/youtu.be\/J0ZKannF6l4?si=FJ43yj8SqWKm2KYq",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/ncdzwhre3IJhkFz9J8F3NDsxCkm.jpg"
  }
 ]
