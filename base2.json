@@ -2661,7 +2661,7 @@
  },
  {
   "NOMBRE": "Una película de Minecraft",
-  "ID": 188,
+  "ID": 180,
   "AÑO": 2025,
   "DURACION": "1h 41m",
   "GENERO": "Aventura\/Fantasía",
@@ -2762,5 +2762,83 @@
   "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   "TIPO": "PELICULA",
   "FONDO": "https:\/\/www.kienyke.com\/sites\/default\/files\/styles\/amp_1200x675_16_9\/public\/2025-05\/destino-final-6.webp?itok=UFnOE4eV"
+ },
+ {
+  "NOMBRE": "Misión imposible: sentencia mortal",
+  "ID": 189,
+  "AÑO": "2023 ",
+  "DURACION": "2h 43m",
+  "GENERO": "Acción\/Suspenso",
+  "LINK": "https:\/\/1024terabox.com\/s\/1HCQSWPOqCxKGX_2X3efCBg",
+  "DESCRIPCION": "Ethan Hunt es un espía capaz de llevar a cabo las misiones más peligrosas con la máxima eficacia. Ahora debe participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de importancia vital.",
+  "TRAILER": "https:\/\/youtu.be\/A6VZHeeZGgk?si=2of10AYYC1dTjlPm",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/gQVfeCRY374rMPvUnOlZ6mJzMok.jpg"
+ },
+ {
+  "NOMBRE": "Destino Final",
+  "ID": 190,
+  "AÑO": "2000 ",
+  "DURACION": "1h 38m",
+  "GENERO": "Terror\/Fantasía",
+  "LINK": "https:\/\/1024terabox.com\/s\/1xCGlGVPif536S5rysPSxHQ",
+  "DESCRIPCION": "Un joven estudiante tiene una premonición al subirse al avión en el que se dispone a ir a París con sus compañeros. Presintiendo que algo grave va a pasar, él y sus amigos desembarcan antes del despegue. Efectivamente, el avión sufre un trágico accidente, y los jóvenes piensan que se han librado de una muerte segura gracias a la premonición de su amigo. Pero el destino no ha sido vencido todavía.",
+  "TRAILER": "https:\/\/youtu.be\/pCiWxIHw7bQ?si=4G5nu7Z6IYO2u4QO",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/6KDLAU9OnA0FhXP1av8jqavCGG9.jpg"
+ },
+ {
+  "NOMBRE": "Destino Final 2 ",
+  "ID": 200,
+  "AÑO": "2003 ",
+  "DURACION": "1h 30m",
+  "GENERO": "Terror\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1YsdCd6Ykh6xq0g_6-hZfzw",
+  "DESCRIPCION": "Desde la muerte de sus amigos, Clear Rivers vive encerrada en un psiquiátrico. Otra chica le asegura que ha tenido una premonición relacionada con un accidente de tráfico. Parece que la muerte vuelve a llamar a su puerta.",
+  "TRAILER": "https:\/\/youtu.be\/7vZqVooni2o?si=igqQScmQVKJEYk10",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/4KHFGNCQvAa5xjJpAFBgqcF4mC2.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/tFPW1UxsGN9R9IGXYRJW79EjbST.jpg"
+ },
+ {
+  "NOMBRE": "Destino Final 3",
+  "ID": 201,
+  "AÑO": "2006 ",
+  "DURACION": "1h 33m",
+  "GENERO": "Terror\/Misterio",
+  "LINK": "https:\/\/1024terabox.com\/s\/1gaq4OCI9AJEXhkIpfoBvmg",
+  "DESCRIPCION": "Wendy Christensen tiene una premonición de un horrible accidente en la montaña rusa y deja su asiento, seguida de algunos de sus compañeros. Aunque en ese momento se libran del siniestro, la Muerte no se deja engañar fácilmente.",
+  "TRAILER": "https:\/\/youtu.be\/xp8IR9Mh3g0?si=K-Xw_EW9SZZKVaGY",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/1QH8fuRrVFAV9MM11mrYQW8NkHd.jpg"
+ },
+ {
+  "NOMBRE": "El destino final 4",
+  "ID": 202,
+  "AÑO": "2009 ",
+  "DURACION": "1h 22m",
+  "GENERO": "Terror\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1PDTW6nRCPf0ryn0OQV84tA",
+  "DESCRIPCION": "Un grupo de amigos acude a un circuito de carreras para ver una prueba del Nascar. Durante la carrera, Nick, uno de los chicos, tiene una premonición sobre un accidente y saca a sus amigos del recinto para escapar de la tragedia. El accidente acaba ocurriendo y todos celebran el hecho de estar vivos. Sin embargo, el grupo no ha desafiado del todo a la muerte, que volverá para llevarse a los supervivientes de la manera más brutal posible.",
+  "TRAILER": "https:\/\/youtu.be\/azQH42WEoTg?si=3WyJVRed-eYXkdmR",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/1R74JsK7cWxy5xQtnoQzm3pwBzw.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/kBVkBkMhkxGcFejJWOwFV0rUEP8.jpg"
+ },
+ {
+  "NOMBRE": "Destino final 5",
+  "ID": 203,
+  "AÑO": "2011 ",
+  "DURACION": "1h 32m",
+  "GENERO": "Terror\/Acción ",
+  "LINK": "https:\/\/1024terabox.com\/s\/11V2_dI5mh-K0yZrRaZzSEA",
+  "DESCRIPCION": "Una premonición salva a un grupo de compañeros de trabajo atrapados en un puente colgante a punto de derrumbarse. Pero este grupo de almas inocentes que no debió sobrevivir, serán perseguidos por la muerte hasta alcanzar su fatal destino.",
+  "TRAILER": "https:\/\/youtu.be\/NM877mmSphc?si=CPLpQvf-nOJuEMxG",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/rZ75LW4YNdOqbfbYUx7UAcUjJvy.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/tmoQ80RhtHoQlssqVatbBwNausv.jpg"
  }
 ]
