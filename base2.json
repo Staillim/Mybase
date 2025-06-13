@@ -2864,79 +2864,278 @@
   "FONDO": "https:\/\/image.tmdb.org\/t\/p\/w1280\/wvr3Nh8TALWbmATrnlNg5Vhf6d3.jpg"
  },
  {
+  "NOMBRE": "K.O. ",
   "ID": 206,
-  "DESCRIPCION": "Profundiza en los desafíos diarios que millones de madres solteras enfrentan a causa de la precariedad laboral, la falta de seguridad social y la ausencia de una red de apoyo."
+  "AÑO": 2025,
+  "GENERO": "Acción\/Aventura\/Drama",
+  "LINK": "https:\/\/1024terabox.com\/s\/16yQG_4PIJC25lpDJj5aTVA",
+  "DESCRIPCION": "Un exluchador se enfrenta a la violencia de los bajos fondos de Marsella para encontrar al hijo de un oponente al que, sin querer, mató años atrás en el ring.",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/mtYCuJxmeIn5To0yhd8GhE7kyXu.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/media.themoviedb.org\/t\/p\/w780\/bsrhm3rlE4Wzv9f5ZTxcNxaMz29.jpg"
  },
  {
-  "ID": 207
+  "NOMBRE": "Thelma, La Unicornio",
+  "ID": 207,
+  "AÑO": 2024,
+  "GENERO": "Animación\/Aventuras\/Comedia",
+  "LINK": "https:\/\/1024terabox.com\/s\/14FAqUjRMVruKXvry-lPHtA",
+  "DESCRIPCION": "Basada en los libros infantiles de Aaron Blabey, la historia sigue a Thelma mientras finge ser un unicornio para alcanzar la fama y la atención que tanto anhela. Un personaje clave en esta aventura es Otis, un burro y el mejor amigo de la protagonista, interpretado por el reconocido actor estadounidense Will Forte.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQwCwkwdU86J3ImH6GwuPhUfyt821efTNJXJA&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/images.plex.tv\/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2F8%2Fgracenote%2F86b7e426276f23fe9c3e8e8369238a59.jpg"
  },
  {
-  "ID": 208
+  "NOMBRE": "Liga de Los Dioses",
+  "ID": 208,
+  "AÑO": 2016,
+  "GENERO": "Acción\/Fantasía",
+  "LINK": "https:\/\/1024terabox.com\/s\/1jYUQDvzExbe3z88U7viyAA",
+  "DESCRIPCION": "El rey Zhou se convierte gradualmente en un tirano por la influencia de Daji, el espíritu de una bruja disfrazado como el de uno de sus concubinas.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRF02rjbqxR5x5FuD-JkjrpCbAEMJlk0TCiqw&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/f9dd64003c55ce55abe4ab2f530a7308b0a447b05723fda3a5c9ecac924bccc0.jpg"
  },
  {
-  "ID": 209
+  "NOMBRE": "El Juez",
+  "ID": 209,
+  "AÑO": 1995,
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1b5MaQVJ65V_dXHvBwgjK7g",
+  "DESCRIPCION": "En el año 2139, la humanidad vive envuelta en una permanente violencia. Sin embargo, en MegaCity Uno, una de las tres megaciudades que existen en Estados Unidos, hay un hombre dispuesto a luchar contra el crimen: el impacable Juez Dredd.",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/s7eCmdLxYnMCEa9Au2N78CRSbkC.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/media.themoviedb.org\/t\/p\/w780\/baJHUXBcoaHnMf2sjwegbuhIjEV.jpg"
  },
  {
-  "ID": 210
+  "NOMBRE": "La Leyenda de Ochi",
+  "ID": 210,
+  "AÑO": 2025,
+  "GENERO": "Aventura, Familia, Fantasía",
+  "LINK": "https:\/\/1024terabox.com\/s\/1DGfJoQzUPOwh1Cc2RfCWxg",
+  "DESCRIPCION": "En una aldea remota de la isla de Carpatia, Yuri, una tímida campesina, es criada con el miedo a una especie animal esquiva llamada ochi. Pero cuando Yuri descubre que han abandonado a un bebé ochi herido, emprende una misión para traerlo a casa",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BOWM4MjIxZmQtYzA3YS00YThiLWI5MjItZDM0YjZmNDFhZDA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/qlJa9H6ss72tDtZfAma2TqEFrAX.jpg"
  },
  {
-  "ID": 211
+  "NOMBRE": "La Reina De Los Condenados",
+  "ID": 211,
+  "AÑO": 2002,
+  "GENERO": "Drama\/Terror\/ Fantasía",
+  "LINK": "https:\/\/1024terabox.com\/s\/18w_Vxo19EBucXWs9TfXpgw",
+  "DESCRIPCION": "Lestat, un vampiro legendario ha salido a luz tras años de estar en penumbras. No contento con ello, ha decidido reinventarse a si mismo y ha elegido una de las figuras más populares en la tierra: una estrella de rock.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTEoO65tu4Flrq4576MFRgFMm8Ygj-U2HY9Bg&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/c5a2c5470d6f6e43d78442d0d52abfd89ad1784e408a41e541df9099b712c786.jpg"
  },
  {
-  "ID": 212
+  "NOMBRE": "Thunderbolts",
+  "ID": 212,
+  "AÑO": 2025,
+  "GENERO": "Acción\/Ciencia ficción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1f72pQPk5zjYtjLMSPpn3qA",
+  "DESCRIPCION": "Película de Marvel en la que -como si de un Escuadrón suicida se tratase- un grupo de villanos son enviados a misiones por encargo del gobierno. En ella veremos a otros personajes que ya forman parte del MCU como Barón Zemo, Yelena Belova (la hermana de Viuda Negra), Fantasma, Taskmaster, Abominación, USA Agente y el Soldado de Invierno. Dirige el filme Jake Schreier (Ciudades de papel) sobre un guión de Eric Pearson (Thor: Ragnarok).",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS2c20HLTy1yh6PC3Ksegp9yO7vZTSaazBAXQ&s"
  },
  {
-  "ID": 213
+  "NOMBRE": "Depredador: Cazador de Asesinos",
+  "ID": 213,
+  "AÑO": 2025,
+  "GENERO": "Animación\/Acción\/Ciencia ficción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1dKeOl5StE-N-Yjh0n5jwOg",
+  "DESCRIPCION": "Tres de los guerreros más feroces de la historia de la humanidad se convierten en presa del asesino supremo de asesinos.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTEROMMqOT7GN_E_eR-MwIM8wo-m81ofTF6oA&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/lachaqueta.news\/wp-content\/uploads\/2025\/05\/%E2%80%98Depredador-Cazador-de-Asesinos-revela-su-brutal-trailer-animado-y-confirma-fecha-de-estreno-1.webp"
  },
  {
-  "ID": 214
+  "NOMBRE": "Mientras estés Conmigo",
+  "ID": 214,
+  "AÑO": 2020,
+  "GENERO": "Drama\/ Romance\/Musical",
+  "LINK": "https:\/\/1024terabox.com\/s\/1Yl343dVg9kJtK2L9gMnszg",
+  "DESCRIPCION": "Cuenta la historia real de la estrella de música cristiana Jeremy Camp, profundizando en su aventura de amor y pérdida, demostrando así que siempre hay esperanza.",
+  "IMG": "https:\/\/media.themoviedb.org\/t\/p\/w500\/y6Vuu6XZim23JT6pxnKmHh0GaL1.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/media.themoviedb.org\/t\/p\/w780\/sUQgwo4oCgNVbpIq7ZtIUhF5hOe.jpg"
  },
  {
-  "ID": 215
+  "NOMBRE": "Mulán",
+  "ID": 215,
+  "AÑO": 2020,
+  "GENERO": "Acción\/Fantasía",
+  "LINK": "https:\/\/1024terabox.com\/s\/10rKmZWgAGF8QEm_rQjdKHQ",
+  "DESCRIPCION": "El emperador chino emite un decreto que exige que cada hogar debe reclutar a un varón para luchar con el ejército imperial en la guerra contra los Hunos. Para salvar a su anciano padre de este deber, su única hija Fa Mulan se hace pasar por soldado y toma su lugar.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQWdDllo69irHO43a4XLShYdD4yh7ww49FSkA&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/wallpapercat.com\/w\/full\/6\/c\/e\/370099-1920x1080-desktop-1080p-mulan-movie-wallpaper.jpg"
  },
  {
-  "ID": 216
+  "NOMBRE": "Tierras Perdidas",
+  "ID": 216,
+  "AÑO": 2025,
+  "GENERO": "Fantasía\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1bx8p2bPzUnrVG_PZbU5_HQ",
+  "DESCRIPCION": "La bruja Gray Alys y el pistolero Boyce cruzan un desierto mortal para atrapar al Hombre Lobo, enfrentando bandidos, demonios y su inevitable destino.",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNGEwYzVhNTQtOTEzOC00ZmM3LTg4MDMtNzg2MzExYThhZDBlXkEyXkFqcGc@._V1_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/w1280\/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg"
  },
  {
-  "ID": 217
+  "NOMBRE": "Héroe de dos Mundos",
+  "ID": 217,
+  "AÑO": 2021,
+  "GENERO": "Fantasía\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/16yjTc4OT2oE8OR_EP9hndA",
+  "DESCRIPCION": "Guan Ning lleva seis años intentando encontrar a su hija, secuestrada por unos traficantes de personas. En su desesperación, es contactado por la corporación Aladdin, que dice poder devolverle a su hija a cambio de un sorprendente encargo.",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/h71zxmiRNK41OfGZt66bHFaeD4F.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR3TjxpUM-jmOIOybGo3VZPYJOBaWIgwfmlvg&s"
  },
  {
-  "ID": 219
+  "NOMBRE": "Kung Fu Panda",
+  "ID": 219,
+  "AÑO": 2008,
+  "GENERO": "Animación\/Infantil\/Comedia",
+  "LINK": "https:\/\/1024terabox.com\/s\/1GggQ6w-iTgwEfe53V69MPA",
+  "DESCRIPCION": "El panda Po trabaja en la tienda de fideos de su familia y sueña en convertirse en un maestro del kung-fu. Su sueño se hace una realidad cuando es inesperadamente elegido para cumplir una antigua profecía y debe estudiar artes marciales con sus ídolos, los Cinco Furiosos. Po necesitará toda la sabiduría, fortaleza y habilidades para poder proteger a su gente de Tai Lung, un maldito leopardo de nieve.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTY4YXbXNzgHiEoK8g-j5X0ziIx-6MlRNdvww&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTjFA1N1-qj4EqrzqxVAyd2d4YAWj98tC_HkQ&s"
  },
  {
-  "ID": 218
+  "NOMBRE": "Revuelto",
+  "ID": 218,
+  "AÑO": 2024,
+  "GENERO": "Acción\/Suspenso",
+  "LINK": "https:\/\/1024terabox.com\/s\/1B3ZdMP-B2u5wp2qREY-BdA",
+  "DESCRIPCION": "Cuando un asesino sádico surge en Escocia, un detective de policía de Chicago se une a la cacería con la esperanza de detener al asesino serial ritualista antes de que ataque a su próxima víctima.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS7McaknVtZ7psfMepP4x6yyKaOISCBv_x4Ug&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR_KoJgOziBmMF1jn5PSkO-xLG94wfjNDaqxw&s"
  },
  {
-  "ID": 220
+  "NOMBRE": "V de Venganza",
+  "ID": 220,
+  "AÑO": 2022,
+  "GENERO": "Terror\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1vzKwTesAw50p72TpOQDisA",
+  "DESCRIPCION": "Después de enterarse de que su hermana menor escapó de un intento de secuestro anterior que también mató a sus padres, dos hermanas separadas deben unir fuerzas para rescatarla de un grupo de vampiros sedientos de sangre.",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODBiNTgwM2EtYmNiOS00MzhmLWE3ZDQtMDIxNDQwZGI2ZDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTz_O1_2z0d51hUzsfxXDH-2OoGpPs6jMlmPw&s"
  },
  {
-  "ID": 221
+  "NOMBRE": "Vagina Dentada",
+  "ID": 221,
+  "AÑO": 2008,
+  "GENERO": "Comedia\/Terror",
+  "LINK": "https:\/\/1024terabox.com\/s\/1k3DLwLddNm5Sb-gAO5oXGA",
+  "DESCRIPCION": "Una joven adolescente con dificultades para aceptar el sexo, dada su educación, pero cada día reciba más y más provocación de aquellos hombres que la rodean, incluyendo a su medio-hermano, pero ella quiere llegar virgen al matrimonio. Hasta que llega un día en el que es asaltada sexualmente y descubre que su cuerpo tiene \"algo\" extraño.",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/b3b854c81824405a82908442cb77eb55089fe6b428f9f34c79e4979513a0eabe.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/3ScUr2Ng8uvuEw7TWi2XwnIy2o4.jpg"
  },
  {
-  "ID": 222
+  "NOMBRE": "Pablo Escobar: El Patrón del Mal",
+  "ID": 222,
+  "AÑO": 2012,
+  "GENERO": "Drama\/ Acción\/Drogas\/ Biográfico\/Crimen\/Mafia",
+  "LINK": "https:\/\/1024terabox.com\/s\/13GHm9cZ4Bio6voJ475NuFQ",
+  "DESCRIPCION": "Episodios 74.  Describe la vida del narco colombiano Pablo Emilio Escobar Gaviria desde su infancia. El uso de la violencia indiscriminada lo convirtió en el narcotraficante más temible de finales del siglo XX. Llegó incluso a desestabilizar al gobierno colombiano, hasta el punto de ser el criminal más buscado del mundo.",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BOTA4ZGI1ZTktMzMzOS00ZGZiLTk2OTItMzFmODEzNmIxY2RmXkEyXkFqcGc@._V1_.jpg",
+  "TIPO": "SERIE",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/r1tMESor8QuPVKP2VxcVEX6t6ad.jpg"
  },
  {
-  "ID": 223
+  "NOMBRE": "Este Cuerpo No Es Mío",
+  "ID": 223,
+  "AÑO": 2002,
+  "GENERO": "Comedia\/Adolescente",
+  "LINK": "https:\/\/1024terabox.com\/s\/11Pg0Tfe33k3bto8rYPwRbA",
+  "DESCRIPCION": "Una adolescente, muy popular y atractiva pero cruel, se despierta un día dentro del cuerpo de un hombre. Mientras intenta volver a la normalidad, se da cuenta de lo mal que se ha portado con los demás hasta ese momento.",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/c1r1LX49vuO6AXnk7xisSuMER9U.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/d45V3kjzYjO7jejTVnKlqNtSMki.jpg"
  },
  {
-  "ID": 224
+  "NOMBRE": "Bob Marley: La Leyenda",
+  "ID": 224,
+  "AÑO": 2024,
+  "GENERO": "Musical\/Drama",
+  "LINK": "https:\/\/1024terabox.com\/s\/1DyXUvKalfPSVcwgkop-M9Q",
+  "DESCRIPCION": "El compositor y cantante jamaiquino Bob Marley supera las adversidades para convertirse en el músico de reggae más famoso del mundo. El viaje detrás de la revolucionaria música de un ícono que inspiró a generaciones a través de su mensaje de amor y unidad.",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/sRvd39S4BzRhGqC1Xp2DTOgg1nS.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODBlMzBmNTUtOGE0Mi00MTkwLWIyNzAtOGJlOTQ2Y2Q3Y2I0XkEyXkFqcGc@._V1_.jpg"
  },
  {
-  "ID": 225
+  "NOMBRE": "El contador 2",
+  "ID": 225,
+  "AÑO": 2025,
+  "GENERO": "Acción\/Drama\/Secuela\/Crimen\/Autismo",
+  "LINK": "https:\/\/1024terabox.com\/s\/1sYbSoI6rUhVCccF2dXxVHg",
+  "DESCRIPCION": "Secuela de la película 'El contable' (2016). Christian Wolff tiene talento para resolver problemas complejos. Cuando un viejo conocido es asesinado, dejando tras de sí un críptico mensaje para \"encontrar al contable\", Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, del que está distanciado, para que le ayude.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT5NH1FOPmcPN1jZuNW5RliZpqgyA7avFVyyw&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/media.revistavanityfair.es\/photos\/67ab30d57e6aff1c7f4ab4de\/4:3\/w_2176,h_1632,c_limit\/ACNT_2025_FG_01154103_Still070_CCR.jpg"
  },
  {
-  "ID": 226
+  "NOMBRE": "Mientras El Lobo No Está",
+  "ID": 226,
+  "AÑO": 2017,
+  "GENERO": "Suspenso\/Misterio",
+  "LINK": "https:\/\/1024terabox.com\/s\/11aqL8vnpuS92CikhDF7PWQ",
+  "DESCRIPCION": "Un joven adolescente y su grupo de amigos inadaptados intentan escapar de un internado estricto que guarda secretos peligrosos.",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNTRlOTMwZmItNGU1Ny00ZGM2LTk3YzAtNTJlMGJhZGQxNzU5XkEyXkFqcGc@._V1_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/188915546d3bdbf02f3b7562bddb4b714660d6aa4940985dc8723df2d2b68f97.jpg"
  },
  {
-  "ID": 227
+  "NOMBRE": "3 Días Máximo",
+  "ID": 227,
+  "AÑO": 2023,
+  "GENERO": "Comedia\/Acción",
+  "LINK": "https:\/\/1024terabox.com\/s\/1F3zgMIahamRtDLqePus2RA",
+  "DESCRIPCION": "Un torpe policía se enfrenta a una misión que luce complicada: rescatar a su abuela, quien fue secuestrada por un cártel mexicano. Para liberarla, el hombre y sus aliados se enfrentan a distintas situaciones en lugares como París, Abu Dhabi y Cancún.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRa3flc2SPMzLhIy0FYPHBFSV9gWjfZftnV5g&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQjEDFefnYSPSzLZBTudpB0YDtw8vMVzbA1fA&s"
  },
  {
-  "ID": 228
+  "NOMBRE": "La Gran Muralla",
+  "ID": 228,
+  "AÑO": 2016,
+  "GENERO": "Acción\/Aventura\/Fantasía",
+  "LINK": "https:\/\/1024terabox.com\/s\/1Lxt0hT61WUde55bUeHoNuA",
+  "DESCRIPCION": "La gran muralla China, siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles, sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/8VenQvaBTOM2By4rsJbCZhl6hFU.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTOpdL0w3vWwS_Ew8l4tWxITHdePSJUqME04w&s"
  },
  {
-  "ID": 229
+  "NOMBRE": "Togo",
+  "ID": 229,
+  "AÑO": 2019,
+  "GENERO": "Aventura\/Drama",
+  "LINK": "https:\/\/1024terabox.com\/s\/1y6VCI4LBdg_Se9jnVFlxZQ",
+  "DESCRIPCION": "Cuando una mortífera epidemia azota la localidad de Nome, Alaska, y la única cura está a miles de kilómetros de distancia, la población busca al adiestrador de perros de trineo Leonard Sepalla para que emprenda un duro viaje a través de la tundra.",
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTbzfDvyrNMinIC2pAu3akI4vmOrqzwHpfCGA&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/a.ltrbxd.com\/resized\/sm\/upload\/ld\/ct\/s0\/fr\/togo-1200-1200-675-675-crop-000000.jpg?v=4afa6d0ea5"
  },
  {
-  "ID": 230
+  "NOMBRE": "Espejos Siniestros",
+  "ID": 230,
+  "AÑO": 2008,
+  "GENERO": "Terror\/Misterio\/Suspenso",
+  "LINK": "https:\/\/1024terabox.com\/s\/1OGUvrPSY3Lagj0v46RgJHg",
+  "DESCRIPCION": "Un guardia de seguridad de un centro comercial se ve envuelto en un misterio alrededor de unos escaparates con espejos en el departamento de ropa que aparentemente hacen que saque lo peor de las personas que se reflejan en ellos.",
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/rSuc5f92R5cDjrQ6cOo8GD2Su4m.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/ul5RJwqJYQ3zHUuKL5XmU7NMiRn.jpg"
  }
 ]
