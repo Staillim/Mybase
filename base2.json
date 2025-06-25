@@ -2205,13 +2205,16 @@
  },
  {
   "NOMBRE": "Jack Reacher: bajo la mira",
+  "ID": 240,
   "AÑO": 2012,
   "DURACION": "2h 10m",
   "GENERO": "Acción\/Suspenso",
   "LINK": "https:\/\/terabox.com\/s\/1x498OKXSTZHwO7z30WGGnw",
   "DESCRIPCION": "Una mañana, en una ciudad ordinaria, cinco personas mueren por disparos en un ataque aparentemente aleatorio. Todas las evidencias apuntan a un sospechoso: un exfrancotirador militar que rápidamente es detenido.",
   "TRAILER": "https:\/\/youtu.be\/fHDCtCjNlRw?si=ZiZZQfpXbGUIrdIq",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/hb7sE5q2lYoNhtvwbkcBDg\/1200x675.jpg"
  },
  {
   "NOMBRE": "Jack and Jill",
@@ -2225,62 +2228,80 @@
  },
  {
   "NOMBRE": "La sustancia",
+  "ID": 241,
   "AÑO": 2024,
   "DURACION": " 2h 20m",
   "GENERO": "Terror\/Ciencia ficción",
   "LINK": "https:\/\/terabox.com\/s\/1XoAtQ071Mjzc9iVKFwfdnw",
   "DESCRIPCION": "The Substance es una película dramática de terror corporal británica-francesa estadounidense escrita, dirigida y producida por Coralie Fargeat y protagonizada por Demi Moore, Margaret Qualley y Dennis Quaid.",
   "TRAILER": "https:\/\/youtu.be\/5tNDhOH0dMc?si=BRIEs83BSl0ffEHE",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/images.mubicdn.net\/images\/artworks\/694880\/cache-694880-1729774423\/images-original.png",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/media.themoviedb.org\/t\/p\/w780\/pRjCDn51n9otE0AzpGRYGVWP1LB.jpg"
  },
  {
   "NOMBRE": "Barco Fantasma",
+  "ID": 242,
   "AÑO": 2002,
   "DURACION": "1h 31m",
   "GENERO": "Terror\/Suspenso",
   "LINK": "https:\/\/terabox.com\/s\/1MBI8q13HZlv_ySFcxl_xBA",
   "DESCRIPCION": "La tripulación de un buque salvavidas intenta sobrevivir tras quedar atrapada a bordo de un buque embrujado.",
   "TRAILER": "https:\/\/youtu.be\/lsUYQlAuPFs?si=slm3m4Sy8r-YeHqW",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/7dzD3aP0039Mu6YTxFZMpfdQMRI.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/byYyzopycPpzU3WPavhZWwEQSh4.jpg"
  },
  {
   "NOMBRE": "Gigantes de Acero",
+  "ID": 243,
   "AÑO": 2011,
   "GENERO": "Ciencia ficción. Acción",
   "LINK": "https:\/\/terabox.com\/s\/1NaPxZstzcbzb07_eMaj6kg",
   "DESCRIPCION": "En un futuro no muy lejano, el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates, así que un día, tras encontrar un viejo robot desechado, decide entrenarlo.",
   "TRAILER": "https:\/\/youtu.be\/fqB_PU1UwIs?si=UBPjAoVKwUnPObNp",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/image.tmdb.org\/t\/p\/original\/aMlfpoqh0fU6KdXHd27tDG9qu8A.jpg"
  },
  {
   "NOMBRE": "Project X-Traction",
+  "ID": 244,
   "AÑO": 2023,
   "DURACION": "1h 42m",
   "GENERO": "Acción\/Aventura",
   "LINK": "https:\/\/terabox.com\/s\/1eXVPBvR4ZLiPID58aEm0ZQ",
   "DESCRIPCION": "Dos antiguos soldados de élite deben escoltar a un grupo de civiles a través de la carretera más peligrosa del mundo, bajo una tormenta de disparos y explosiones.",
   "TRAILER": "https:\/\/youtu.be\/qnjrq3hEOX0?si=hmFiE0sKmNekbAvM",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/zSKDQyBKvqk39U6IxpGOnBB3lvi.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/static1.moviewebimages.com\/wordpress\/wp-content\/uploads\/2023\/05\/jackie-chan-john-cena-in-hidden-strike.jpg"
  },
  {
   "NOMBRE": "El Valet",
+  "ID": 245,
   "AÑO": 2022,
   "DURACION": "2h 3m",
   "GENERO": "Comedia\/Romance",
   "LINK": "https:\/\/terabox.com\/s\/17hsCJWQjOs5ueorxbXg4QA",
   "DESCRIPCION": "En El Valet, la estrella de cine mundialmente famosa Olivia se enfrenta a un desastre de relaciones públicas cuando un paparazzi toma una foto de ella con su amante casado, Vincent. El valet Antonio aparece accidentalmente en la misma foto y es reclutado para hacerse pasar por el nuevo novio de Olivia y así encubrirlo todo.",
   "TRAILER": "https:\/\/youtu.be\/1iyz4d8WoqQ?si=v7N_qLopPVgzjJO3",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/image.tmdb.org\/t\/p\/original\/nOJw9jm0oy18pusBvVOmt9SwAwg.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/images.plex.tv\/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fc%2Fgracenote%2Fc8dc184c12ebd04bce7b58c058a795b3.jpg"
  },
  {
   "NOMBRE": "Lluvia ácida",
+  "ID": 2466,
   "AÑO": 2023,
   "DURACION": "1h 39m",
   "GENERO": "Fantasía\/Ciencia ficción",
   "LINK": "https:\/\/terabox.com\/s\/12CGIvtiJJhRvuI5rHctDww",
   "DESCRIPCION": "En medio de una ola de calor, una nube de letal lluvia ácida azota Francia. Ante el inevitable avance de la lluvia, el pánico se extiende por todo el país. Selma, una chica de 15 años.",
   "TRAILER": "https:\/\/youtu.be\/nDfSc8HmYRA?si=I9qbJO5LltHLw2C9",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR_LCYB_D8s9t-zZEHiE_pMc_DqvGb-RBZdXQ&s",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYjM0ZDMzMWMtZDI4OC00ODIyLTgxM2YtMzEzNGEzMGVhNzM0XkEyXkFqcGc@._V1_.jpg"
  },
  {
   "NOMBRE": "One Piece Film: Red (Doblada)",
@@ -2294,13 +2315,16 @@
  },
  {
   "NOMBRE": "Sin escape",
+  "ID": 247,
   "AÑO": 2015,
   "DURACION": "1h 43m",
   "GENERO": "Acción\/Suspenso",
   "LINK": "https:\/\/terabox.com\/s\/1U8j7cL6GecyHHssFMTiLOA",
   "DESCRIPCION": "Un hombre de negocios y su familia se ven atrapados en medio de un violento golpe de estado en un país del sudeste asiático. Mientras los rebeldes atacan, Jack y su familia tienen que buscar la forma de sobrevivir al infierno.",
   "TRAILER": "https:\/\/youtu.be\/rxq_JyMEzPs?si=bKTPJabNcpGFLhlD",
-  "TIPO": "PELICULA"
+  "IMG": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE0MDI3NTE5NF5BMl5BanBnXkFtZTgwNzI3ODM2NjE@._V1_FMjpg_UX1000_.jpg",
+  "TIPO": "PELICULA",
+  "FONDO": "https:\/\/images.bauerhosting.com\/legacy\/empire-tmdb\/films\/192141\/images\/sMuPoR2lVnsPELvLKpqvkNWHcRT.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80"
  },
  {
   "NOMBRE": "Carnada",
@@ -2661,7 +2685,7 @@
  },
  {
   "NOMBRE": "Una película de Minecraft",
-  "ID": 180,
+  "ID": 231,
   "AÑO": 2025,
   "DURACION": "1h 41m",
   "GENERO": "Aventura\/Fantasía",
